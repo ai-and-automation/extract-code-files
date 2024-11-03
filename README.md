@@ -78,15 +78,15 @@ base_directory/
     organization1/
         project1/
             script1.py
-    base_directory/
-        organization2/
-            project2/
-                style.css
-    base_directory/
-        organization3/
-            project3/
-                main.js
-                index.html
+base_directory/
+    organization2/
+        project2/
+            style.css
+base_directory/
+    organization3/
+        project3/
+            main.js
+            index.html
 ```
 
 ## Troubleshooting
