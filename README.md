@@ -89,14 +89,6 @@ base_directory/
                 index.html
 ```
 
-## Requirements
-The main packages used in this project are:
-- **GitPython**: For handling Git repositories.
-- **python-dotenv**: For loading environment variables from a `.env` file.
-- **requests**: For interacting with the GitHub API (if extended for repository management).
-
-These packages, along with their dependencies, are listed in the `requirements.txt` file.
-
 ## Troubleshooting
 - **Excluded File Inclusion**: Ensure `exclusions.txt` is correctly formatted.
 - **Log Review**: Check `extraction_log.log` for detailed operation logs and potential errors.
